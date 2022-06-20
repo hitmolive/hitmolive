@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Moh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+                                     🖤 ʜᴇʟʟᴏ ᴛʜᴇʀᴇ
+👋 Hi, I’m Moh
 - 📫 How to reach me ...https://t.me/nobady_kares
 
 <!---
